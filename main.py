@@ -92,7 +92,7 @@ elif selected == "About":
         and creating visualizations. 
 
         - **Developer**: **SABIHA SULTANA**
-        - **GitHub**: [Your Repository](#)
+        - **GitHub**: [https://github.com/SabihaSultanaa/Growth-Mindset-Challenge.git](#)
      
         """
     )
